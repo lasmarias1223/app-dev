@@ -1,5 +1,4 @@
 # app-dev
-My first repository
 
 *:movie_camera::movie_camera:My favorite movie:movie_camera::movie_camera:*
 
