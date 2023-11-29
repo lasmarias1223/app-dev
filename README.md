@@ -5,6 +5,8 @@ My first repository
 
 ***The Shape of Voice***
 
+![A_Silent_Voice_Film_Poster](https://github.com/lasmarias1223/app-dev/assets/152380517/f7ca3e44-afc2-423c-abb4-6d1d7de97b74)
+
 *Characters:*
 
 1. Shouko Nishimiya
